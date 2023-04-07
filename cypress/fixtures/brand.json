@@ -1,0 +1,9 @@
+{
+    "name": "Brand B",
+    "websiteURL": "https://brand.com",
+    "logoURL": "https://brand.com/brandlogo.png",
+    "metadata": {
+        "customKey1": "customValue1",
+        "customKey2": "customValue2"
+    }
+}

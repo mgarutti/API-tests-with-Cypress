@@ -1,0 +1,23 @@
+{
+    "address": "2 Soho Square",
+    "brandId": "838d648e-5614-48a7-8e8b-6b3014638c66",
+    "city": "London",
+    "countryCode": "GBR",
+    "postcode": "W1D 3PX",
+    "metadata": {
+        "customKey1": "customValue1",
+        "customKey2": "customValue2"
+    },
+    "searchBy": {
+        "merchantIds": {
+            "visa": [
+                "1234567",
+                "7654321"
+            ],
+            "mastercard": [
+                "1234567",
+                "7654321"
+            ]
+        }
+    }
+}

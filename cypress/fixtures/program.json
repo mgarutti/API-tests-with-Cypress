@@ -1,0 +1,9 @@
+{
+    "name": "Program X",
+    "icon": ":avocado:",
+    "iconBackground": "#BADA55",
+    "metadata": {
+        "customKey1": "customValue1",
+        "customKey2": "customValue2"
+    }
+}
